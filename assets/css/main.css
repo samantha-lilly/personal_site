@@ -4195,3 +4195,17 @@ input, select, textarea {
 		padding: 0 55px 0 55px;
 		/* padding: 0 2em 2em 0; */
 	}
+
+	.contact-links {
+		text-decoration: underline;
+		font-size: 30px;
+		padding: 10px;
+	}
+
+	/* #cont {
+		padding: 10px;
+	} */
+
+	/* .contact > p {
+		text-align: center;
+	} */
