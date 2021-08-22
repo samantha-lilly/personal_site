@@ -4178,3 +4178,20 @@ input, select, textarea {
 		border-radius: 100%;
 		width: 22em;
 	}
+
+	.skills {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.skills-grid {
+		margin-bottom: 50px;
+	}
+
+	.skills-grid > i {
+		font-size: 60px;
+		/* margin-left: 30px; */
+		padding: 0 55px 0 55px;
+		/* padding: 0 2em 2em 0; */
+	}
